@@ -49,8 +49,8 @@ img {
 }
 
 .social {
-  left-margin: auto;
-  padding-left: 0 1rem;
+  margin-left: auto;
+  padding: 0 1rem;
   display: flex;
 }
 
@@ -61,5 +61,5 @@ img {
 
 .copyright {
   padding: 0 1rem;
-  width: 100%
+  width: 100%;
 }
